@@ -2,6 +2,8 @@
 
 # Aerosol-Cloud Interactions: Predicting Cloud Condensation Nuclei from AOS Measurements (Total Smokeshow)
 
+[![DOI](https://zenodo.org/badge/1244929115.svg)](https://doi.org/10.5281/zenodo.21086750)
+
 ![arms-race](/notebooks/images/total-smokeshow-photo.jpg)
 
 ## [2026 ARM Summer School](https://arm-development.github.io/arm-summer-school-2026/) Project 
