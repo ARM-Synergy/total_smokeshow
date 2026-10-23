@@ -2,7 +2,7 @@ name: arm-summer-school-2026-dev
 channels:
   - conda-forge
 dependencies:
-  - python=3.13
+  - python=3.14
   - mystmd
   - cookiecutter
   - act-atmos
